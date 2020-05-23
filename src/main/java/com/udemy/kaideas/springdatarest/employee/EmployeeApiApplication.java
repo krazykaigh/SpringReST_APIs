@@ -1,4 +1,4 @@
-package com.udemy.kaideas.employeeapi;
+package com.udemy.kaideas.springdatarest.employee;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

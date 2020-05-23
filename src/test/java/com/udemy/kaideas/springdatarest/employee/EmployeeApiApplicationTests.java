@@ -1,4 +1,4 @@
-package com.udemy.kaideas.employeeapi;
+package com.udemy.kaideas.springdatarest.employee;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
