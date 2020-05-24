@@ -15,8 +15,10 @@ public class Employee {
     private String last_name;
 
 
-
     public Long getId() {
+        return id;
+    }
+    public Long getResourceId(){
         return id;
     }
 
